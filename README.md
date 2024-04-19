@@ -1,8 +1,8 @@
 - 👋 Hi, I’m kareem toson
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning flutter
-- 📫 How to reach me [...](https://www.linkedin.com/in/karim-toson-76379424b/)
-- 😄 Pronouns:he/him ...
+- 📫 How to reach me (https://www.linkedin.com/in/karim-toson-76379424b/)
+- 😄 Pronouns:he/him
 
 
 <!---
