@@ -57,14 +57,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kareemtoson12&show_icons=true&theme=tokyonight&count_private=true" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kareemtoson12&layout=compact&theme=tokyonight" height="180">
-</p>
-
----
 
 ## 🎯 Currently Looking For
 
@@ -73,11 +65,7 @@ A **Junior Flutter Developer** position where I can:
 - 👨‍💻 Collaborate with experienced teams
 - 💡 Learn and grow in a fast-paced environment
 
----
 
-> _"Clean code always looks like it was written by someone who cares."_ – Robert C. Martin
-
----
 
 ### 👇 Let’s Connect!
 
