@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Karim Toson 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200px" alt="Coder at work">
-</p>
+
 
 <p align="center">
   🚀 Junior Flutter Developer | Mobile Enthusiast | Passionate about building elegant, scalable apps
