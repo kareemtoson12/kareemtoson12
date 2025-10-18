@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  🚀 Junior Flutter Developer | Mobile Enthusiast | Passionate about building elegant, scalable apps
+  🚀  Flutter Developer | Mobile Enthusiast | Passionate about building elegant, scalable apps
 </p>
 
 <p align="center">
