@@ -18,7 +18,7 @@
 
 - 🎓 **Computer Science Graduate** from Ain Shams University (2025)  
 - 📱 Flutter developer with strong experience in mobile apps using Firebase, REST APIs, Clean Architecture
-- 👨‍🏫 Former **Coding Instructor** at iSchool (Python, JS, Scratch)
+- 👨‍🏫 Former **Flutter Instructor** at NTI 
 - 💡 Constantly learning, building, and improving UI/UX and app performance
 
 ---
